@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\classifier">
+      <UniqueIdentifier>{1d3e8695-31c7-46f7-af47-f915151c6ee6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\feat">
+      <UniqueIdentifier>{30b9f827-eb56-4b71-8c8e-9ab4ded3f286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\io">
+      <UniqueIdentifier>{a2b61962-a353-4783-b0b7-760075181f71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\util">
+      <UniqueIdentifier>{c28645f4-7dd5-4fd5-b9b1-2ad9e00cbf10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\classifier">
+      <UniqueIdentifier>{0f916b53-3ff7-4872-a266-8e5c7d2e22a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\feat">
+      <UniqueIdentifier>{e53350e2-4970-4f4d-8bd8-ea2a6ca3785d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\io">
+      <UniqueIdentifier>{0beddcb6-5ac8-4f75-a984-e0ca6743893e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\util">
+      <UniqueIdentifier>{814cf1d1-76b9-4454-b20d-daed93874764}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\classifier\lab_boosted_classifier.h">
+      <Filter>头文件\classifier</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\classifier\mlp.h">
+      <Filter>头文件\classifier</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\classifier\surf_mlp.h">
+      <Filter>头文件\classifier</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\feat\lab_feature_map.h">
+      <Filter>头文件\feat</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\feat\surf_feature_map.h">
+      <Filter>头文件\feat</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\io\lab_boost_model_reader.h">
+      <Filter>头文件\io</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\io\surf_mlp_model_reader.h">
+      <Filter>头文件\io</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\util\image_pyramid.h">
+      <Filter>头文件\util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\util\math_func.h">
+      <Filter>头文件\util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\util\nms.h">
+      <Filter>头文件\util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\classifier.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\detector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\face_detection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\feature_map.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\fust.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\include\model_reader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\face_detection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\fust.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\classifier\lab_boosted_classifier.cpp">
+      <Filter>源文件\classifier</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\classifier\mlp.cpp">
+      <Filter>源文件\classifier</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\classifier\surf_mlp.cpp">
+      <Filter>源文件\classifier</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\feat\lab_feature_map.cpp">
+      <Filter>源文件\feat</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\feat\surf_feature_map.cpp">
+      <Filter>源文件\feat</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\io\lab_boost_model_reader.cpp">
+      <Filter>源文件\io</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\io\surf_mlp_model_reader.cpp">
+      <Filter>源文件\io</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\util\image_pyramid.cpp">
+      <Filter>源文件\util</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\util\nms.cpp">
+      <Filter>源文件\util</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
