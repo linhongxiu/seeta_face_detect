@@ -5,15 +5,16 @@ d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\
   d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\include\face_detection.h(15): note: 参见“{dtor}”的前一个定义
 d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(53): warning C4273: “seeta::FaceDetection::Detect”: dll 链接不一致
   d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\include\face_detection.h(24): note: 参见“Detect”的前一个定义
-d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(82): warning C4273: “seeta::FaceDetection::SetMinFaceSize”: dll 链接不一致
+d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(81): warning C4273: “seeta::FaceDetection::SetMinFaceSize”: dll 链接不一致
   d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\include\face_detection.h(32): note: 参见“SetMinFaceSize”的前一个定义
-d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(90): warning C4273: “seeta::FaceDetection::SetMaxFaceSize”: dll 链接不一致
+d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(89): warning C4273: “seeta::FaceDetection::SetMaxFaceSize”: dll 链接不一致
   d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\include\face_detection.h(40): note: 参见“SetMaxFaceSize”的前一个定义
-d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(96): warning C4273: “seeta::FaceDetection::SetImagePyramidScaleFactor”: dll 链接不一致
+d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(95): warning C4273: “seeta::FaceDetection::SetImagePyramidScaleFactor”: dll 链接不一致
   d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\include\face_detection.h(49): note: 参见“SetImagePyramidScaleFactor”的前一个定义
-d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(102): warning C4273: “seeta::FaceDetection::SetWindowStep”: dll 链接不一致
+d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(101): warning C4273: “seeta::FaceDetection::SetWindowStep”: dll 链接不一致
   d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\include\face_detection.h(57): note: 参见“SetWindowStep”的前一个定义
-d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(109): warning C4273: “seeta::FaceDetection::SetScoreThresh”: dll 链接不一致
+d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\src\face_detection.cpp(108): warning C4273: “seeta::FaceDetection::SetScoreThresh”: dll 链接不一致
   d:\人脸识别\seetafaceengine-master\seetafaceengine-master\facedetection\include\face_detection.h(66): note: 参见“SetScoreThresh”的前一个定义
-  FaceDetection.vcxproj -> D:\人脸识别\SeetaFaceProject\Detection\x64\Debug\FaceDetection.dll
-  FaceDetection.vcxproj -> D:\人脸识别\SeetaFaceProject\Detection\x64\Debug\FaceDetection.pdb (Full PDB)
+    正在创建库 D:\人脸识别\SeetaFaceProject\Alignment\x64\Debug\FaceDetection.lib 和对象 D:\人脸识别\SeetaFaceProject\Alignment\x64\Debug\FaceDetection.exp
+  FaceDetection.vcxproj -> D:\人脸识别\SeetaFaceProject\Alignment\x64\Debug\FaceDetection.dll
+  FaceDetection.vcxproj -> D:\人脸识别\SeetaFaceProject\Alignment\x64\Debug\FaceDetection.pdb (Full PDB)
