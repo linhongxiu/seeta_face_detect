@@ -1,0 +1,10 @@
+﻿  facedetection_test.cpp
+..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\test\facedetection_test.cpp(44): warning C4244: “初始化”: 从“int64”转换到“long”，可能丢失数据
+..\..\..\SeetaFaceEngine-master\SeetaFaceEngine-master\FaceDetection\src\test\facedetection_test.cpp(46): warning C4244: “初始化”: 从“int64”转换到“long”，可能丢失数据
+  正在生成代码
+  2 of 86 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Detection.vcxproj -> D:\人脸识别\SeetaFaceProject\Detection\x64\Release\Detection.exe
+  Detection.vcxproj -> D:\人脸识别\SeetaFaceProject\Detection\x64\Release\Detection.pdb (Full PDB)
